@@ -1,8 +1,3 @@
-# Team 13 - Metaflix
-### Team members: 
-**Aimee Chen, Zhizhi Wang, Samy Dushimimana Shyaka, Jason Evans**
-## Target Company: Netflix 
- 
 The application demo is built with **Streamlit**. The application includes features such as user authentication, homepage, a friend system, and watch-together sessions. It uses **MongoDB Atlas** for storing movie data, friend data, and watch history, and supports additional integration with **AWS RDS** for relational data like user data, etc., and live comments data is stored in **HBase** due to the huge data amount.
 
 ## Features
